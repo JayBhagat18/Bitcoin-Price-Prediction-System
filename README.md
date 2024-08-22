@@ -1,4 +1,4 @@
-Dataset link - 
+Dataset link - https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
 
 This notebook focuses on forecasting Bitcoin prices using two popular architectures in Recurrent Neural Networks (RNNs): Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU). The process involves several key steps, from data preparation and exploration to model building, training, and evaluation. Here's a breakdown:
 
